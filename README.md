@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/397271076.svg)](https://zenodo.org/badge/latestdoi/397271076)
 
 This repository contains two files one with the data obtained with an in-phase tone (thresholds_n_itd_s_0.csv), the other with the results obtained with an out-of-phase tone (thresholds_n_itd_s_pi.csv). The Files are formated as comma seperated values. The first line of each file contains the column names with each following line containg one dataset.
 
