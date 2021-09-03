@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/397271076.svg)](https://zenodo.org/badge/latestdoi/397271076)
 
 This repository contains three files. The first contains the indivual subject data for in-phase tone (thresholds_n_itd_s_0.csv), the second contains the results obtained with an out-of-phase tone (thresholds_n_itd_s_pi.csv). The third (model_and_subject_median.csv) contains the inter-subject median as well as the results obtained with the model.
 
